@@ -38,6 +38,7 @@
                                     <label class="custom-file-label" for="foto">Choose file</label>
                                 </div>
                             </div>
+                            <p>*ukuran landscpae foto</p>
                         </div>
 
                         <div class="mb-3">
