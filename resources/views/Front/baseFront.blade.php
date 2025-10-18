@@ -15,7 +15,7 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
     {{-- TAILWINDCSS --}}
-    @vite('resources/css/app.css')
+    {{-- @vite('resources/css/app.css') --}}
     <link rel="stylesheet" href="{{ asset('css1/app.css') }}">
     <link rel="stylesheet" href="{{ asset('css1/lightbox.css') }}">
 
